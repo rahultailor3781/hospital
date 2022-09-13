@@ -1,0 +1,2 @@
+class Devloper < ApplicationRecord
+end

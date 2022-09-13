@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient_name: MyString
+  family_member_name: MyString
+  disease: MyString
+  admit_date: 2022-09-08
+  vard: 1
+  status: MyString
+  image: MyString
+  leave_date: 2022-09-08
+
+two:
+  patient_name: MyString
+  family_member_name: MyString
+  disease: MyString
+  admit_date: 2022-09-08
+  vard: 1
+  status: MyString
+  image: MyString
+  leave_date: 2022-09-08
